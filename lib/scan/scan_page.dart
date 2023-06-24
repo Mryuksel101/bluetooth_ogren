@@ -3,6 +3,7 @@ import 'package:bluetooth_ogren/scan/view_model/scan_view_model.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
+
 class ScanPage extends StatelessWidget {
   const ScanPage({super.key});
 
